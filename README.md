@@ -27,10 +27,12 @@ combine data from multiple tableS.</p>
 
 ## Creating database
 **Students table**
-![here]![Screenshot 2024-09-25 164701](https://github.com/user-attachments/assets/3af2a77c-086e-49db-837f-7da02f2daba7)
+![here]!![Screenshot 2024-09-25 185221](https://github.com/user-attachments/assets/1ed5c24d-b3ab-493b-ac56-819d4d3b0bd8)
+
 
 **Course table**
-![here](https://github.com/Vigg123/CODETECH-Task1/blob/main/course%20table.png)
+![here]![Screenshot 2024-09-25 185051](https://github.com/user-attachments/assets/db57f8a4-586d-44cb-ac09-cb1fef56935f)
+
 **Enrolment table**
 ![here]![Enrollment Table](https://github.com/user-attachments/assets/0ed85a99-d904-4252-b7a5-adf8662cd63e)
 
